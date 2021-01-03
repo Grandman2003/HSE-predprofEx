@@ -31,6 +31,7 @@ import java.io.FileOutputStream;
 import java.net.URI;
 
 public class MainActivity extends AppCompatActivity {
+    //it was commented
     ViewPager2 pager;
     PhotoPagesAdapter adapter;
     FloatingActionButton fab;
