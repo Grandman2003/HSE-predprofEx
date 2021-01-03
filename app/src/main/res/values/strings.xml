@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PredfrofExamination</string>
+    <string name="action_share">Share</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="original_size">Original</string>
+    <string name="first_option" translatable="false">1080 \nx 1920</string>
+    <string name="second_option" translatable="false">1600 \nx 1200</string>
+    <string name="third_option" translatable="false">1800 \nx 900</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+</resources>

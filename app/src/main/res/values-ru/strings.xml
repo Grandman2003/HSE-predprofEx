@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ПредпрофЭкзамен</string>
+    <string name="action_share">Поделиться</string>
+    <string name="first_fragment_label">Первый Фрагмент</string>
+    <string name="second_fragment_label">Второй Фрагмент</string>
+    <string name="next">Следующая</string>
+    <string name="previous">Предыдущая</string>
+    <string name="original_size">Оригинал</string>
+</resources>
